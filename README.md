@@ -1,2 +1,2 @@
-# singInProject
- Sing In project with HTML and CSS.
+# signInProject
+ Sign In project with HTML and CSS.
