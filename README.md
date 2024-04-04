@@ -1,18 +1,18 @@
-# Game On
+# Cycle Mate - Sign In page
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## Description
-The Game On News is a web application dedicated to providing users with the latest updates, reviews, and articles related to the gaming industry. It offers a centralized platform for gamers and enthusiasts to stay informed about the world of video games.
+Cycle Mate is a sign-in page for a menstrual cycle tracking app, designed to offer users a convenient platform for managing and monitoring their menstrual cycles. With Cycle Mate, users can effortlessly track their cycles, record important data, and gain valuable insights into their reproductive health.
 
-![Thumbnail](https://github.com/higinosk/video-game-news-page/assets/76918008/9269a60b-a669-4142-98fa-a35560dba1f8)
+![Thumbnail](https://github.com/higinosk/Cycle-mate-sign-in/assets/76918008/d7c66612-c0e0-49d3-9718-562574751305)
 
-With a user-friendly interface and intuitive navigation, the Game On aims to keep users abreast of the cutting-edge developments, trends, and happenings within the gaming industry, ensuring they stay ahead in their gaming pursuits and remain deeply engaged with their passion for gaming.
+Whether it's logging in to access personalized cycle data or setting up an account for the first time, Cycle Mate provides a hassle-free and intuitive sign-in experience.
 
 ## Features
 
-* Display latest gaming news articles
-* Filter articles by category (e.g., reviews, updates, announcements)
-* Responsive design for optimal viewing on different devices
+* Secure sign-in process to access cycle tracking features
+* User-friendly interface for easy navigation
+* Personalized account setup for individualized cycle monitoring
 
 ## Tech Stack
 * HTML5
@@ -26,8 +26,8 @@ You can also clone the project and open it in localhost, or enjoy the preview vi
 
 ## How to Run the Project
 * Fork the project.
-* Clone the repository to your local machine: git clone https://github.com/higinosk/game-on-news.
-* Navigate to the project directory: cd video-game-news-page
+* Clone the repository to your local machine: git clone https://github.com/higinosk/cycle-mate-sign-in.
+* Navigate to the project directory: cd cycle-mate-sign-in.
 * Open the index.html file in your preferred web browser.
 
 ## Contributors
