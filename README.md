@@ -20,7 +20,8 @@ Whether it's logging in to access personalized cycle data or setting up an accou
   
 ## Demo
 
-Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/724fdb24-9665-4530-885b-13604211a56c/deploy-status)](https://app.netlify.com/sites/game-on-news/deploys)
+Live view by clicking the badge:
+[![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white)](https://higinosk.github.io/Cycle-mate-sign-in/)
 
 You can also clone the project and open it in localhost, or enjoy the preview video below instead 😄
 
